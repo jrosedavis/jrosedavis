@@ -12,6 +12,8 @@
 <br>
 -:email: How to reach me ... jrosehdavis@gmail.com
 <br>
+- :computer_mouse: Connect with me on LinkIn: https://www.linkedin.com/in/jrosedavis/
+<br>
 -:computer: Personal webpage: https://jrosedavis.github.io/Portfolio-Page/
 
 
